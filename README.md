@@ -10,4 +10,3 @@
 
   testando se faz commit com marcação no github
  preciso que fique tudo verde no meu perfil
-g
